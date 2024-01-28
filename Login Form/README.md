@@ -2,6 +2,9 @@
 
 For run this project type cd serve
 
+<img width="659" alt="image" src="https://github.com/Manmoh4n/Angular_Project/assets/90148527/f9c6827c-8b49-469e-b0e0-0f8a6295e9cf">
+
+
 
 
 
